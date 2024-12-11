@@ -67,7 +67,7 @@ GROUP BY arrival_date_year,hotel;
 Present actionable insights to hotel management based on the analysis.
 Suggest strategies to improve revenue, occupancy, and car space utilization.
 Provide recommendations for future data analysis and dashboard enhancements.
-Tools and Technologies:
+### Tools and Technologies:
 Microsoft SQL Server Management Studio
 Power BI
 Key Learnings:
@@ -76,7 +76,8 @@ SQL query writing and optimization techniques.
 Data cleaning and transformation best practices.
 Effective data visualization techniques to communicate insights.
 Use of Power BI's features to create interactive and informative dashboards.
-Future Improvements:
+
+### Future Improvements:
 Explore advanced analytics techniques, such as machine learning, to predict future trends.
 Automate the data pipeline to streamline the analysis process.
 Enhance the dashboard with more interactive features and visualizations.
